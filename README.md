@@ -8,4 +8,5 @@ Some of my projects are available online, you should check them out!
 - [transignal](https://github.com/marcindz88/transignal) - A modern, type-safe, and lightweight internationalization (i18n) library for Angular, built using just Angular Signals.
 - [Trip Composer](https://trip-composer.com/) - Compose your multi-city trip with the use of AI. Project developed in Angular with Java Spring Microservices API.
 - [Jetlag.gg](https://jetlag.gg/) - Multiplayer real-time web game with [open-sourced code](https://github.com/marcindz88/jetlag.gg)
+- [ABO Architecte](https://abo-architecte.fr/) - Multilingual architect business landing page developed in Astro with keystatic content managment
 - [ngx-mat-queue-bar](https://github.com/marcindz88/ngx-mat-queue-bar) - A fork of angular material toasts, that allows stacking and multiple styles of animated toasts 
